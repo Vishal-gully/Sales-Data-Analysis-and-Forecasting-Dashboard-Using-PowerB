@@ -95,12 +95,5 @@ Predict sales to optimize inventory and resource allocation.
 4. **Real-Time Updates:**  
    - Enable real-time data integration for up-to-date analysis and decision-making.
 
----
 
-## Contact
-
-For questions, feedback, or collaboration opportunities, feel free to reach out:
-
-- **Email:** sainiaartik8394@gmail.com  
-- **GitHub:** [aartiksaini GitHub Profile](https://github.com/aartiksaini)
 
