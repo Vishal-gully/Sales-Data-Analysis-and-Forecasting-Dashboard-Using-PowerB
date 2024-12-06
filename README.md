@@ -64,13 +64,6 @@ Predict sales to optimize inventory and resource allocation.
   Time-series analysis for predicting sales using built-in Power BI forecasting tools.  
 
 ---
-
-## How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/aartiksaini/PowerBI_dashboard.git
-
----
 ## Insights Gained
 
 1. **Forecast Accuracy:**  
